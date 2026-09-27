@@ -1,0 +1,18 @@
+## .NET Core
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docstates
+
+## Rider & Visual Studio
+.idea/
+*.suo
+*.userprefs
+*.launchSettings.json.user
+.vs/
+
+## Logs & Temp
+*.log
+*.tmp
+TestResults/
